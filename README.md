@@ -7,5 +7,5 @@ Currently, I'm still learning and developing as a web developer.
 - Java
 - Python
 
-#### Frameworks:
+#### Frameworks & Libraries:
 - Tailwindcss
