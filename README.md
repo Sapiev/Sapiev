@@ -6,3 +6,6 @@ Currently, I'm still learning and developing as a web developer.
 - JavaScript
 - Java
 - Python
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
