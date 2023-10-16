@@ -10,11 +10,11 @@ Currently, I'm still learning and developing as a web developer.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       3 hrs 29 mins   ███████████████░░░░░░░░░░   59.77 %
-Python           1 hr 43 mins    ███████▒░░░░░░░░░░░░░░░░░   29.59 %
-XML              13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-CSS              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-HTML             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JavaScript       3 hrs 24 mins   ███████████████░░░░░░░░░░   59.69 %
+Python           1 hr 43 mins    ███████▓░░░░░░░░░░░░░░░░░   30.30 %
+XML              13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+CSS              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+HTML             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
