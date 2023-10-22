@@ -10,8 +10,7 @@ Currently, I'm still learning and developing as a web developer.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 4 mins    ████████████████████████░   96.53 %
-HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JavaScript   1 hr 52 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
