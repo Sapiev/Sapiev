@@ -1,11 +1,13 @@
 # Hi there, Im Jacob 👋
 Currently, I'm still learning and developing as a web developer.
 
-#### Languages:
-- HTML, CSS
-- JavaScript
-- Java
-- Python
+#### Tech:
+- HTML, CSS, JS
+- Typescript
+- Svelte & Sveltekit
+- Prisma
+- Express.js
+- Tailwind
 
 <!--START_SECTION:waka-->
 
