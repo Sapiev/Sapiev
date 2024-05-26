@@ -9,7 +9,7 @@ Currently, I'm still learning and developing as a full stack developer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sapiev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sapiev&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=sapiev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
