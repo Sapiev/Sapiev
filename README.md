@@ -11,13 +11,13 @@ Currently, I'm still learning and developing as a full stack developer.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 350 hrs 31 mins
+Total Time: 355 hrs 54 mins
 
-JavaScript            92 hrs 4 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-TypeScript            56 hrs 58 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Svelte                52 hrs 47 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-Java                  24 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-CSS                   23 hrs 54 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+JavaScript            92 hrs 4 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+TypeScript            58 hrs 34 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Svelte                52 hrs 47 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Java                  24 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+CSS                   23 hrs 54 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
