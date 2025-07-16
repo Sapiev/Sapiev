@@ -3,7 +3,7 @@ Currently, I'm still learning and developing as a full stack developer.
 
 ## 📊 Wakatime Activity:
 
-![](https://wakatime.com/share/@bfeff6fe-7f39-433c-bc17-53e716b9a274/5ea5f349-8c2f-4586-bc8c-eb76702f8e49.svg)
+![](https://wakatime.com/share/@bfeff6fe-7f39-433c-bc17-53e716b9a274/c1084c79-5b1a-4658-a9e1-8a8ffabbc873.svg)
 
 <!--START_SECTION:waka-->
 
