@@ -10,8 +10,8 @@ Currently, I'm still learning and developing as a full stack developer.
 ```txt
 Total Time: 894 hrs 58 mins
 
-TypeScript                 322 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.39 %
-JavaScript                 100 hrs 10 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+TypeScript                 322 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.37 %
+JavaScript                 100 hrs 10 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
 HTML                       72 hrs 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 Svelte                     52 hrs 48 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 Markdown                   52 hrs 6 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
